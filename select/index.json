@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "COPYCAT",
+  "base_artist": "Billie Eilish",
+  "createdAt": "2025-12-01T06:49:01.084844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Copycat",
+      "artist": "Lala Lala",
+      "has_synced": true,
+      "path": "select/01_Copycat_Lala_Lala.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "COPYCAT",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/02_COPYCAT_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "COPYCAT (Sofi Tukker Remix)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/03_COPYCAT_(Sofi_Tukker_Remix)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Copycat",
+      "artist": "Lacrimosa",
+      "has_synced": false,
+      "path": "select/04_Copycat_Lacrimosa.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Copycat",
+      "artist": "Jinjer",
+      "has_synced": true,
+      "path": "select/05_Copycat_Jinjer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Copycat",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/06_Copycat_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Copycat",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/07_Copycat_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "COPYCAT",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/08_COPYCAT_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chinese Satellite (Copycat Killer Version) [feat. Rob Moose]",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/09_Chinese_Satellite_(Copycat_Killer_Version)_[feat._Rob_Moose]_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chinese Satellite (Copycat Killer Version)",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/10_Chinese_Satellite_(Copycat_Killer_Version)_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kyoto (Copycat Killer Version)",
+      "artist": "Phoebe Bridgers feat. Rob Moose",
+      "has_synced": true,
+      "path": "select/11_Kyoto_(Copycat_Killer_Version)_Phoebe_Bridgers_feat._Rob_Moose.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kyoto (Copycat Killer Version)",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/12_Kyoto_(Copycat_Killer_Version)_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Punisher (Copycat Killer Version) [feat. Rob Moose]",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/13_Punisher_(Copycat_Killer_Version)_[feat._Rob_Moose]_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Punisher (Copycat Killer Version)",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/14_Punisher_(Copycat_Killer_Version)_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Savior Complex (Copycat Killer Version) [feat. Rob Moose]",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/15_Savior_Complex_(Copycat_Killer_Version)_[feat._Rob_Moose]_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Savior Complex (Copycat Killer Version)",
+      "artist": "Phoebe Bridgers",
+      "has_synced": true,
+      "path": "select/16_Savior_Complex_(Copycat_Killer_Version)_Phoebe_Bridgers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "COPYCAT - Sofi Tukker Remix",
+      "artist": "Billie Eilish feat. Sofi Tukker",
+      "has_synced": true,
+      "path": "select/17_COPYCAT_-_Sofi_Tukker_Remix_Billie_Eilish_feat._Sofi_Tukker.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "COPYCAT - Sofi Tukker Remix",
+      "artist": "Billie Eilish/Sofi Tukker",
+      "has_synced": true,
+      "path": "select/18_COPYCAT_-_Sofi_Tukker_Remix_Billie_Eilish_Sofi_Tukker.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "COPYCAT",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/19_COPYCAT_Billie_Eilish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Copy Cat",
+      "artist": "バビロン大王",
+      "has_synced": false,
+      "path": "select/pl_01_Copy_Cat_バビロン大王.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "COPYCAT",
+      "artist": "バビロン大王",
+      "has_synced": false,
+      "path": "select/pl_02_COPYCAT_バビロン大王.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "COPYCAT",
+      "artist": "バビロン大王",
+      "has_synced": false,
+      "path": "select/pl_03_COPYCAT_バビロン大王.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Copycat",
+      "artist": "バビロン大王",
+      "has_synced": false,
+      "path": "select/pl_04_Copycat_バビロン大王.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "COPYCAT",
+      "artist": "バビロン大王",
+      "has_synced": false,
+      "path": "select/pl_05_COPYCAT_バビロン大王.txt"
+    }
+  ]
+}
